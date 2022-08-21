@@ -7,5 +7,6 @@ MicroPython is a lean implementation of Python 3 optimised to run on microcontro
 
 ## Drivers
 
+**Relay (single and multi channels)** - The relay sets up values high (1) or low (0) [ [repository](https://github.com/lcarnevale/upy-driver-relay) ].<br>
 **HL-69** - The resistive soil moisture sensor (YL-69 or HL-69) measures the volumetric water content in soil, providing in output the voltage value [ [repository](https://github.com/lcarnevale/upy-driver-yl69) ].<br>
 **YL-69** -  The resistive soil moisture sensor (YL-69 or HL-69) measures the volumetric water content in soil, providing in output the voltage value [ [repository](https://github.com/lcarnevale/upy-driver-yl69) ].<br>
